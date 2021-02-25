@@ -40,3 +40,8 @@ footer{
     font-size: 500%;
 }
 
+.dice:hover{
+    cursor:pointer;
+    
+
+}

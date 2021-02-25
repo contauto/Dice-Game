@@ -1,3 +1,21 @@
+var numberOfDices=document.querySelectorAll(".dice").length;
+for(i=0;i<numberOfDices;i++){
+    document.querySelectorAll(".dice")[i].addEventListener("click",function(){
+        location.reload();
+        return false;
+    });
+}
+
+document.addEventListener("keypress",function(){
+    location.reload();
+    return false;
+})
+    
+    
+
+
+
+
 var randomNumber1 = ((Math.floor(Math.random()*6))+1);
 var randomDiceImg1 = ("images/dice"+randomNumber1+".png");
 var image1 = document.querySelectorAll("img")[0];

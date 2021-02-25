@@ -11,11 +11,11 @@ var x=document.getElementsByClassName("refme")[0];
 
 if (randomNumber2<randomNumber1){
     
-    x.innerHTML="🏴‍☠️ Player 1 Wins!";
+    x.innerHTML="🚩 Player 1 Wins!";
 }
 else if(randomNumber2>randomNumber1){
     
-    x.innerHTML="Player 2 Wins! 🏴‍☠️";
+    x.innerHTML="Player 2 Wins! 🚩";
 }
 else {
     x.innerHTML="Draw!";

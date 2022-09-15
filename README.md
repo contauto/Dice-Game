@@ -1,7 +1,6 @@
-# beginnerJS
-
-Dice Game
+#Dice-Game
 
 
 First JS Repo
+
 https://contauto.github.io/beginnerJS/

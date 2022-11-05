@@ -1,1 +1,1 @@
-#https://contauto.github.io/Dice-Game/
+https://contauto.github.io/Dice-Game/
